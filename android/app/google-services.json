@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "865602160993",
+    "project_id": "znamza5app",
+    "storage_bucket": "znamza5app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865602160993:android:19827f02a7406f3ceadd20",
+        "android_client_info": {
+          "package_name": "com.example.znam_za_5_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865602160993-k74t5mindloe91gm33k3vgjtbmt9t576.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV0VZ0CAArIg-AK1avCaZwtPJyRgDUGvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865602160993-k74t5mindloe91gm33k3vgjtbmt9t576.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
